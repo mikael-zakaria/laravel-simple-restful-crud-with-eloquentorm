@@ -1,1 +1,0 @@
-# simple-restful-crud-with-eloquent
