@@ -6,5 +6,6 @@ ____
 How to Use :
   1. Edit .env file(for database)
   2. Activate xampp(web server & database) in your computer
-  2. Write "php artisan migrate" in your command line
-  3. Enjoy the program with "php artisan serve"
+  3. Create database in your browser
+  4. Write "php artisan migrate" in your command line
+  5. Enjoy the program with "php artisan serve"
